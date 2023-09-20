@@ -2,7 +2,7 @@
 - 👀 I’m interested in rotp
 - 🌱 I’m currently learning android studio
 - 💞️ I’m looking to collaborate on instagram
-- 📫 How to reach me asomassoo@gmail.com
+- 📫 How to reach me @_xyhga_
 - 💻 i like css language
 
 <!---
